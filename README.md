@@ -12,3 +12,8 @@ The root of the Angular 2 application is located in:
  1. Run `bundle install`
  2. Run `npm install`
 
+
+## Original Manual
+
+Is here: https://www.pluralsight.com/guides/ruby-ruby-on-rails/react-vs-angular-2-integration-with-rails?PageSpeed=noscript
+

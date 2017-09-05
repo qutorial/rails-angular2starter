@@ -6,7 +6,7 @@ class ApplicationController < ActionController::Base
 
   def index
     respond_to do |format|
-      format.json { render json: {some: 'data'} }
+      format.json { render json: {some: 'Hello'} }
     end
   end
 end
